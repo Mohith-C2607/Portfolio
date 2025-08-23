@@ -142,7 +142,7 @@ body {
 
 /* About Section */
 .content {
-    max-width: 900px;
+    width: 900px;
     margin: 120px auto 80px auto;
     background: rgba(0, 0, 0, 0.75); /* dark semi-transparent for readability */
     padding: 40px;
